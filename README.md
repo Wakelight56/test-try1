@@ -5,4 +5,4 @@
 ## 访问地址
 
 启用 GitHub Pages 后，可以通过以下地址访问：
-`https://1599953856-cmyk.github.io/test-try1/`
+`https://Wakelight56.github.io/test-try1/`
